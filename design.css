@@ -42,18 +42,7 @@ body{
     width: 400px;
     text-align: justify;
 }
-.intro-img-section img{
-    width: 300px;
-    height: 300px;
-    border-radius: 50px;
-    
-}
-.intro-img-section{
 
-    margin-top: 20px;
-    border-radius: 100px;
-
-}
 .intro-section{
     display: flex;
     justify-content: space-evenly;
